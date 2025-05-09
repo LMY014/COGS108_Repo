@@ -1,0 +1,11 @@
+# DATA(All the data are in 2019)
+- house price
+  - https://homesbypasha.com/september-2019-home-sales-price-report-california-association-realtor/
+- population
+  - https://www.indexmundi.com/facts/united-states/quick-facts/california/population#table
+- crime rate
+  - https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-10/table-10-state-cuts/california.xls
+- income
+  - https://hdpulse.nimhd.nih.gov/data-portal/social/table?age=001&age_options=ageall_1&demo=00011&demo_options=income_3&race=00&race_options=race_7&sex=0&sex_options=sexboth_1&socialtopic=030&socialtopic_options=social_6&statefips=06&statefips_options=area_states
+- Expenditures
+  - https://counties.bythenumbers.sco.ca.gov/#!/year/2019/operating/0/entity_name
